@@ -1,0 +1,23 @@
+
+
+.container-jumbo{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+
+    width: 100%;
+    height: 350px;
+    margin-top:80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    margin-bottom:60px;
+}
+
+h1{
+    font-size: 5em;
+}
+
+h2{
+    font-size: 1.5em;
+}
