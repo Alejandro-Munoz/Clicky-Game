@@ -1,7 +1,7 @@
 
 # Clicky Click!
 
-![Clicky Click](/github/images/for_readme/clickygame.png)
+![Clicky Click](/images/for_readme/clickygame.png)
 
 ## What Is It?
 A memory game built using React.  You will be presented with various images and the object of the game is to score points by clicking on an image that has not been previously clicked.  Sound simple right?
